@@ -1,0 +1,10 @@
+{
+  "label": "New Tutorial",
+  "position": 1,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "How tutorials are added to this collection — the drop-zone workflow and conventions."
+  }
+}
