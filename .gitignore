@@ -1,0 +1,24 @@
+# Drafts — not ready for publication
+tocreate/
+
+# macOS
+.DS_Store
+
+# Local Claude config
+.claude/
+
+# Docusaurus build artifacts
+website/node_modules/
+website/build/
+website/.docusaurus/
+website/.cache-loader/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env files
+.env
+.env.local
+.env.*.local
