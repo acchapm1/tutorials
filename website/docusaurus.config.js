@@ -45,7 +45,7 @@ const config = {
           exclude: [
             'website/**',
             'node_modules/**',
-            'tocreate/**',
+            'NewTutorial/drop-zone/**',
             '.claude/**',
             '.git/**',
             'README.md',

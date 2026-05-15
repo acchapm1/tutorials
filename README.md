@@ -60,13 +60,15 @@ publishes to GitHub Pages automatically.
 
 ```
 tutorials/
-├── NewTutorial/                  ← workflow docs (this is meta)
-├── {Topic}/                      ← one folder per topic, x38
+├── NewTutorial/                       ← workflow docs + drop zone
+│   ├── how-i-create-new-tutorials.md  ← published: the workflow
+│   └── drop-zone/                     ← new topic prompts (gitignored)
+│       └── finished/                  ← archive of past prompts
+├── {Topic}/                           ← one folder per topic, x38
 │   ├── {topic}-beginner-guide.md
 │   └── {topic}-deep-dive.md
-├── tocreate/                     ← drop zone for new topic prompts (gitignored)
-├── website/                      ← Docusaurus site
-└── .github/workflows/deploy.yml  ← auto-deploy on push to main
+├── website/                           ← Docusaurus site
+└── .github/workflows/deploy.yml       ← auto-deploy on push to main
 ```
 
 ## Contributing

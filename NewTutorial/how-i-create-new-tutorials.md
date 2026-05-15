@@ -21,14 +21,18 @@ one deep-dive — and files them in a topic folder.
 
 ## The Drop Zone
 
-New topic requests live in a `tocreate/` directory at the root of the source
+New topic requests live in `NewTutorial/drop-zone/` at the root of the source
 repository. A request is just a markdown file naming the topic and any
 relevant context. The filename can be terse (e.g. `bunch.md`,
 `hyperqueue.md`); the pipeline figures out the topic name from the content.
 
 After successful generation, the source file is moved to
-`tocreate/finished/` so the drop zone stays clean and there is an audit trail
-of which prompts produced which tutorials.
+`NewTutorial/drop-zone/finished/` so the drop zone stays clean and there is
+an audit trail of which prompts produced which tutorials.
+
+`NewTutorial/drop-zone/` is gitignored — drop-zone files and the archive
+never appear in the repo or on the docs site. Only this page
+(`how-i-create-new-tutorials.md`) is published from `NewTutorial/`.
 
 ## Output Location
 
@@ -134,11 +138,11 @@ Obsidian's Graph View.
 
 ## End-to-End Workflow
 
-1. A `.md` file is dropped into `tutorials/tocreate/` describing the topic.
+1. A `.md` file is dropped into `NewTutorial/drop-zone/` describing the topic.
 2. The scheduled task picks it up the next morning.
 3. The task determines the technology/application name from the content.
 4. It creates `tutorials/{name}/` if one does not already exist.
 5. It generates `{topic}-beginner-guide.md` and `{topic}-deep-dive.md`.
 6. It searches the vault for related tutorials and inserts wikilinks
    (bidirectionally — updates older tutorials to link back).
-7. On success, it moves the source file to `tocreate/finished/`.
+7. On success, it moves the source file to `NewTutorial/drop-zone/finished/`.
