@@ -76,5 +76,5 @@ an error, but it isn't accepting new tutorial submissions.
 
 ## License
 
-No license declared yet. The Docusaurus scaffolding under `website/` is MIT
+[MIT](LICENSE). The Docusaurus scaffolding under `website/` is also MIT
 (Docusaurus's own license).
