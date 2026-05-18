@@ -1,0 +1,9 @@
+{
+  "label": "Agent Skills",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Agent Skills."
+  }
+}

@@ -1095,3 +1095,7 @@ You now know how to:
 
 The display is your feedback loop. Every project becomes more engaging when users see what's happening. Keep building!
 
+# Related Tutorials
+
+- [[circuitpython-beginner-guide|CircuitPython Beginner Guide]] — CircuitPython on RP2040/RP2350 with similar display and sensor patterns
+- [[circuitpython-deep-dive|CircuitPython Deep Dive]] — advanced CircuitPython displayio framework and hardware interfaces

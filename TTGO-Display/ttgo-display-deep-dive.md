@@ -1544,3 +1544,7 @@ The TTGO T-Display is a capable platform. With these advanced techniques, you ca
 - Contribute fonts or drivers back to the open-source community
 
 Good luck with your TTGO T-Display projects!
+# Related Tutorials
+
+- [[circuitpython-beginner-guide|CircuitPython Beginner Guide]] — CircuitPython on RP2040/RP2350 with similar display and sensor patterns
+- [[circuitpython-deep-dive|CircuitPython Deep Dive]] — advanced CircuitPython displayio framework, PIO, and USB HID

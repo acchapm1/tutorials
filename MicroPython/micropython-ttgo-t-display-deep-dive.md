@@ -1318,3 +1318,6 @@ For your next steps, consider building a mesh network of TTGO displays using ESP
 
 - [[ttgo-display-beginner-guide|TTGO Display Projects Beginner Guide]] — hands-on display projects including WiFi dashboard, countdown timer, and multi-page apps
 - [[ttgo-display-deep-dive|TTGO Display Projects Deep Dive]] — advanced display techniques, C driver migration, MQTT, deep sleep, and production patterns
+
+- [[circuitpython-beginner-guide|CircuitPython Beginner Guide]] — Adafruit's beginner-friendly MicroPython fork for RP2040/RP2350 boards
+- [[circuitpython-deep-dive|CircuitPython Deep Dive]] — advanced CircuitPython including displayio, PIO, USB HID, and memory optimization
