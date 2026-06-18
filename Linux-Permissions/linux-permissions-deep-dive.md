@@ -628,3 +628,9 @@ journalctl | grep apparmor
 
 - [[micropython-ttgo-t-display-beginner-guide|MicroPython TTGO T-Display Beginner Guide]] — practical serial device access on macOS
 - [[micropython-ttgo-t-display-deep-dive|MicroPython TTGO T-Display Deep Dive]] — udev rules and device permissions for embedded development
+
+- [[cgroups-beginner-guide|Cgroups Beginner Guide]] — Resource isolation with Linux control groups
+- [[cgroups-deep-dive|Cgroups Deep Dive]] — Advanced cgroups, namespaces, and how they interact with permissions
+
+- [[headscale-beginner-guide|Headscale Beginner Guide]] — file permissions for Headscale config and private keys
+- [[headscale-deep-dive|Headscale Deep Dive]] — systemd sandboxing and ACL-based access control for Headscale

@@ -793,3 +793,11 @@ apptainer pull docker://nvcr.io/nvidia/isaac-sim:4.5.0
 
 - [[parsl-beginner-guide|Parsl Beginner Guide]] — Python-native parallel workflows on Slurm
 - [[parsl-deep-dive|Parsl Deep Dive]] — advanced Parsl with MPI, containers, and production patterns
+
+- [[cgroups-beginner-guide|Cgroups Beginner Guide]] — How cgroups manage container resources on HPC clusters
+- [[cgroups-deep-dive|Cgroups Deep Dive]] — Advanced cgroups, Slurm integration, and GPU resource isolation
+- [[animation-toolkit-for-hpc-talks-beginner-guide|Animation Toolkit for HPC Talks — Beginner Guide]] — Create animated diagrams for HPC presentations
+- [[animation-toolkit-for-hpc-talks-deep-dive|Animation Toolkit for HPC Talks — Deep Dive]] — Manim, Motion Canvas, and matplotlib for conference talks
+
+- [[docker-bake-beginner-guide|Docker Bake Beginner Guide]] — build the amd64 Docker images that Apptainer/Singularity converts for HPC
+- [[docker-bake-deep-dive|Docker Bake Deep Dive]] — advanced cross-platform build pipeline from Apple Silicon to Rocky Linux HPC clusters

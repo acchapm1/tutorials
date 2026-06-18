@@ -1242,6 +1242,7 @@ cat .python-version
 - [[docker-test-container-deep-dive|Docker Test Container Deep Dive]] — advanced Docker patterns including multi-stage builds, test containers, and CI integration
 - [[linux-permissions-beginner-guide|Linux Permissions Beginner Guide]] — understanding file permissions, ownership, and access control for system-level package management
 - [[git-worktrees-beginner-guide|Git Worktrees Beginner Guide]] — using Git worktrees for monorepo workflows, parallel branch development, and workspace patterns
+- [[autoresearch-deep-dive|Autoresearch Deep Dive]] — Karpathy's autoresearch project uses uv as its sole environment manager; the deep dive covers `uv sync` / `uv run` in the context of a GPU training loop
 
 ---
 

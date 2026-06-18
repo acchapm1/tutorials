@@ -1179,3 +1179,8 @@ For HPC workflows combining interactive development, monitoring, and job submiss
 - [[pixi-deep-dive|Pixi Deep Dive]] — Advanced pixi patterns including HPC deployment
 - [[uv-beginner-guide|uv Beginner Guide]] — Fast Python-only package manager by Astral
 - [[uv-deep-dive|uv Deep Dive]] — Advanced uv workflows for Python projects
+
+- [[headscale-beginner-guide|Headscale Beginner Guide]] — self-hosted WireGuard mesh VPN; Mosh works well over Headscale tailnets for persistent remote access
+- [[headscale-deep-dive|Headscale Deep Dive]] — advanced Headscale with DERP relays and subnet routing; complements Mosh for reliable remote sessions
+
+- [[herdr-beginner-guide|Herdr Beginner Guide]] — agent multiplexer for remote agent management via Mosh+SSH

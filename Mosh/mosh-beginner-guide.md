@@ -492,6 +492,10 @@ Mosh works best alongside these complementary tools and guides:
 - [[uv-beginner-guide|uv Beginner Guide]] — Fast Python package manager for pure-Python projects
 - [[uv-deep-dive|uv Deep Dive]] — Advanced uv workflows, CI/CD, and Docker integration
 
+
+- [[headscale-beginner-guide|Headscale Beginner Guide]] — self-hosted mesh VPN; Mosh sessions work seamlessly over Headscale tailnets
+- [[headscale-deep-dive|Headscale Deep Dive]] — advanced Headscale networking and DERP relays
+
 ## Summary
 
 **Mosh is a game-changer for interactive HPC work**, especially on laptops with flaky networks. Here's what you now know:

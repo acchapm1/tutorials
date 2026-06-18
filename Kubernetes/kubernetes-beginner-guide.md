@@ -874,3 +874,6 @@ kubectl get pods -w
 - [[just-deep-dive|Just Deep Dive]] — Advanced just patterns for Docker and Kubernetes management
 
 - [[docker-test-container-beginner-guide|Docker Test Container Beginner Guide]] — use Docker containers for safe config testing (foundational Docker skills)
+
+- [[headscale-beginner-guide|Headscale Beginner Guide]] — self-hosted mesh VPN; can provide overlay networking for Kubernetes
+- [[headscale-deep-dive|Headscale Deep Dive]] — advanced Headscale deployment including Kubernetes integration

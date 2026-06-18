@@ -2073,3 +2073,13 @@ This deep-dive reference covered advanced Docker container patterns for testing 
 - Profile your specific workflow to identify performance bottlenecks (benchmarking exercises)
 
 **Remember:** Containers are tools for safe, fast iteration. Invest in automation early — a 5-second feedback loop changes everything.
+# Related Tutorials
+
+- [[cgroups-beginner-guide|Cgroups Beginner Guide]] — Linux control groups that Docker/containers rely on
+- [[cgroups-deep-dive|Cgroups Deep Dive]] — Advanced cgroup internals, resource enforcement, and container runtime integration
+
+- [[headscale-beginner-guide|Headscale Beginner Guide]] — Docker Compose deployment for self-hosted Tailscale control server
+- [[headscale-deep-dive|Headscale Deep Dive]] — production Docker Compose stack with Caddy reverse proxy and Headscale web UI
+
+- [[docker-bake-beginner-guide|Docker Bake Beginner Guide]] — declarative multi-platform builds; natural next step after mastering buildx
+- [[docker-bake-deep-dive|Docker Bake Deep Dive]] — advanced bake.hcl with matrix builds, remote builders, and CI/CD for HPC

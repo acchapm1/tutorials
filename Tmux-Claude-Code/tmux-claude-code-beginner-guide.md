@@ -861,3 +861,6 @@ You now have everything you need to use tmux and Claude Code together effectivel
 - Read [[tmux-claude-code-deep-dive]] to explore advanced patterns: workspace templates, Claude Code automation scripts, multi-agent orchestration, and tmux scripting
 - Check [[dotfiles-beginner-guide]] to version-control your `~/.tmux.conf` so your setup is reproducible across machines
 - Explore [[git-worktrees-worktrunk-beginner-guide|git worktrees]] to run Claude Code on isolated branches without juggling stashes
+# Related Tutorials
+
+- [[herdr-beginner-guide|Herdr Beginner Guide]] — terminal-native agent runtime with built-in agent state awareness

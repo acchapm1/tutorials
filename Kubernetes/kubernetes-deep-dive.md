@@ -1551,3 +1551,9 @@ See also: [[kubernetes-beginner-guide|Kubernetes Beginner's Guide]] for fundamen
 
 - [[just-deep-dive|Just Deep Dive]] — Advanced just patterns for Kubernetes cluster management and deployment automation
 - [[just-vs-make|Just vs GNU Make]] — Comparing task runners for infrastructure workflows
+
+- [[cgroups-beginner-guide|Cgroups Beginner Guide]] — The Linux kernel mechanism behind Kubernetes resource limits
+- [[cgroups-deep-dive|Cgroups Deep Dive]] — Advanced cgroups internals and container runtime integration
+
+- [[headscale-beginner-guide|Headscale Beginner Guide]] — self-hosted WireGuard mesh VPN for connecting Kubernetes nodes across clouds
+- [[headscale-deep-dive|Headscale Deep Dive]] — overlay networking with Headscale for multi-cloud Kubernetes clusters

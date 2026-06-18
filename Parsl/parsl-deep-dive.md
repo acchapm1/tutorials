@@ -885,3 +885,8 @@ This submits fewer Slurm jobs (friendlier to the scheduler) while providing the 
 - [Parsl Monitoring Guide](https://parsl.readthedocs.io/en/stable/userguide/monitoring.html)
 - [Slurm Documentation](https://slurm.schedmd.com/documentation.html)
 - Babuji, Y. et al. "Parsl: Pervasive Parallel Programming in Python." HPDC 2019.
+# Related Tutorials
+
+- [[cgroups-beginner-guide|Cgroups Beginner Guide]] — Linux resource isolation for HPC workloads
+- [[cgroups-deep-dive|Cgroups Deep Dive]] — How Slurm uses cgroups to enforce job resource limits
+- [[animation-toolkit-for-hpc-talks-beginner-guide|Animation Toolkit for HPC Talks]] — Animate workflow DAGs and cluster concepts for presentations

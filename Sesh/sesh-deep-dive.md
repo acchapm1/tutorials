@@ -605,3 +605,6 @@ Advanced sesh workflows unlock significant productivity gains when managing mult
 
 - [[tmux-claude-code-beginner-guide|Tmux + Claude Code Beginner Guide]] — Run Claude Code inside tmux for persistent AI coding sessions
 - [[tmux-claude-code-deep-dive|Tmux + Claude Code Deep Dive]] — Advanced tmux + Claude Code patterns with sesh integration
+
+- [[herdr-beginner-guide|Herdr Beginner Guide]] — agent runtime with built-in session persistence
+- [[herdr-deep-dive|Herdr Deep Dive]] — advanced Herdr session management and agent orchestration

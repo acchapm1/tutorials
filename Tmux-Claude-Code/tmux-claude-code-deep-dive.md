@@ -1453,3 +1453,6 @@ Key takeaways from this deep dive:
 - Explore [[git-worktrees-worktrunk-deep-dive|git worktrees deep dive]] for safe parallel agent work
 - Set up [[mosh-deep-dive|Mosh]] for unbreakable remote Claude Code sessions
 - Store your `~/.tmux.conf` and workspace scripts in a [[dotfiles-deep-dive|dotfiles repo]] managed by [[chezmoi-deep-dive|chezmoi]]
+# Related Tutorials
+
+- [[herdr-deep-dive|Herdr Deep Dive]] — agent-aware terminal multiplexer with socket API and integration hooks

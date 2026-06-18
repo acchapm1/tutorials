@@ -735,6 +735,10 @@ ssh -G github-personal | head -10
 - [[dtach-beginner-guide|Dtach Beginner Guide]] — lightweight session detach for resilient SSH workflows
 - [[dtach-deep-dive|Dtach Deep Dive]] — dtach with ProxyJump, jump hosts, and scripted SSH sessions
 
+
+- [[headscale-beginner-guide|Headscale Beginner Guide]] — self-hosted Tailscale control server; Headscale tunnels complement SSH for secure mesh networking
+- [[headscale-deep-dive|Headscale Deep Dive]] — advanced Headscale ACLs, OIDC, and production deployment; SSH over Headscale tailnets
+
 ## Summary
 
 **Key Takeaways:**

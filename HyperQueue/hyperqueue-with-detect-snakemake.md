@@ -437,3 +437,8 @@ snakemake --profile profiles/hq \
 ```
 
 If the output matches what `--profile profiles/slurm` produces, you're in business. Scale up from there.
+# 9. Related Tutorials
+
+- [[flux-basics|Flux Basics]] — Flux Framework for HPC job scheduling (alternative to HyperQueue's Slurm middleware approach)
+- [[flux-snakemake-workflows|Flux + Snakemake Workflows]] — DETECT pipeline migration to the Flux executor plugin (compare with HyperQueue executor)
+- [[flux-advanced-features|Advanced Flux Features]] — hierarchical scheduling for high-throughput ensemble workflows

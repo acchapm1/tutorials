@@ -396,3 +396,9 @@ chmod g+s /opt/shared-project
 
 - [[micropython-ttgo-t-display-beginner-guide|MicroPython TTGO T-Display Beginner Guide]] — working with serial device permissions for USB-connected microcontrollers
 - [[micropython-ttgo-t-display-deep-dive|MicroPython TTGO T-Display Deep Dive]] — serial port access and device file permissions for ESP32 development
+
+- [[cgroups-beginner-guide|Cgroups Beginner Guide]] — Linux control groups for resource isolation
+- [[cgroups-deep-dive|Cgroups Deep Dive]] — How cgroups interact with the permission model
+
+- [[headscale-beginner-guide|Headscale Beginner Guide]] — file ownership and permissions for VPN config files and private keys
+- [[headscale-deep-dive|Headscale Deep Dive]] — systemd hardening and permission management for Headscale

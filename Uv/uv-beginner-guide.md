@@ -886,6 +886,7 @@ These linked tutorials cover complementary tools and workflows:
 - [[docker-test-container-beginner-guide|Docker Test Container Beginner Guide]] — Containerize your uv-managed project for testing and deployment
 - [[linux-permissions-beginner-guide|Linux Permissions Beginner Guide]] — Understanding file permissions, especially useful when uv installs binaries to `~/.local/bin`
 - [[github-cli-beginner-guide|GitHub CLI Beginner Guide]] — Manage repositories, pull requests, and CI workflows from the terminal
+- [[autoresearch-beginner-guide|Autoresearch Beginner Guide]] — Karpathy's autonomous ML research loop uses `uv sync` and `uv run` as its environment and execution layer
 
 ---
 

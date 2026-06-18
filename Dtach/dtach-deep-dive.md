@@ -640,6 +640,9 @@ x /tmp/dtach-*
 
 ---
 
+
+- [[herdr-beginner-guide|Herdr Beginner Guide]] — agent-aware terminal multiplexer with detach/reattach
+
 ## Summary
 
 **dtach is a precision tool for session detachment** that excels when you need minimal overhead and maximum composability. Key advanced takeaways:

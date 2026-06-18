@@ -567,3 +567,13 @@ Nix is a package manager and language for reproducible builds. You can declare y
 - Explore the [[docker-test-container-deep-dive|Docker Test Container Deep Dive]] for advanced patterns like caching, multi-stage builds, and automation
 
 **Happy testing!**
+# Related Tutorials
+
+- [[cgroups-beginner-guide|Cgroups Beginner Guide]] — How Linux controls container resource limits
+- [[cgroups-deep-dive|Cgroups Deep Dive]] — Deep dive into the resource isolation technology behind containers
+
+- [[headscale-beginner-guide|Headscale Beginner Guide]] — uses Docker Compose for deploying a self-hosted VPN control server
+- [[headscale-deep-dive|Headscale Deep Dive]] — production Docker deployment patterns for Headscale
+
+- [[docker-bake-beginner-guide|Docker Bake Beginner Guide]] — write a bake.hcl instead of long buildx commands; build for Rocky Linux HPC clusters from your Mac
+- [[docker-bake-deep-dive|Docker Bake Deep Dive]] — matrix builds, remote native builders, and CI/CD integration

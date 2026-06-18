@@ -557,6 +557,10 @@ print(f'Completed: {info[\"finished\"]}, Failed: {info[\"failed\"]}')
 If you run a Snakemake-based pipeline on Slurm (especially one with many short per-sample rules), the natural next move is to slot HQ between Snakemake and Slurm as middleware. The [[hyperqueue-with-detect-snakemake|DETECT/Snakemake integration tutorial]] walks through exactly that — including the executor plugin, resource mapping, and an A/B evaluation plan.
 # Related Tutorials
 - [[ssh-tutorial|SSH Tutorial]]
+
+- [[cgroups-beginner-guide|Cgroups Beginner Guide]] — Linux control groups for resource management on HPC
+- [[cgroups-deep-dive|Cgroups Deep Dive]] — How Slurm uses cgroups for job isolation and accounting
+- [[animation-toolkit-for-hpc-talks-beginner-guide|Animation Toolkit for HPC Talks]] — Animate HPC concepts for conference presentations
 # 10. Related Tutorials
 
 - [[maestri-beginner-guide|Maestri Beginner Guide]] — Orchestrate AI agents on an infinite canvas for HPC administration tasks
@@ -564,3 +568,6 @@ If you run a Snakemake-based pipeline on Slurm (especially one with many short p
 
 - [[parsl-beginner-guide|Parsl Beginner Guide]] — Python-native parallel workflows on Slurm (complementary approach — Parsl builds task DAGs in Python, HQ dispatches tasks to allocations)
 - [[parsl-deep-dive|Parsl Deep Dive]] — advanced Parsl patterns including MPI executors, monitoring, and production workflows
+
+- [[flux-basics|Flux Basics]] — Flux Framework as an alternative HPC scheduler with hierarchical architecture
+- [[flux-advanced-features|Advanced Flux Features]] — nested instances and Python SDK (compare with HyperQueue's automatic allocation model)

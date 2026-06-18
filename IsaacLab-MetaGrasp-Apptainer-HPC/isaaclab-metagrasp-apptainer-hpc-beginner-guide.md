@@ -499,3 +499,9 @@ tail -n 50 AIR-v0-Data_<jobid>.out
 
 - [[parsl-beginner-guide|Parsl Beginner Guide]] — Python-native parallel workflows on Slurm
 - [[parsl-deep-dive|Parsl Deep Dive]] — advanced Parsl with MPI, containers, and production patterns
+
+- [[cgroups-beginner-guide|Cgroups Beginner Guide]] — How Linux control groups manage container resources
+- [[cgroups-deep-dive|Cgroups Deep Dive]] — Advanced cgroups and Slurm resource isolation
+
+- [[docker-bake-beginner-guide|Docker Bake Beginner Guide]] — build amd64 Docker images on your Mac to pull via Singularity on the HPC cluster
+- [[docker-bake-deep-dive|Docker Bake Deep Dive]] — production Docker build pipeline targeting Rocky Linux HPC environments

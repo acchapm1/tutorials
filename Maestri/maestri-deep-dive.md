@@ -452,3 +452,7 @@ Maestri's value for HPC administrators lies in its spatial approach to multi-sys
 The key architectural decisions — native Swift rendering, PTY-level communication, file-backed sticky notes, and on-device AI through Apple Foundation Models — prioritize performance, privacy, and interoperability. For an HPC admin managing multiple clusters, supporting researchers, and maintaining infrastructure-as-code, Maestri offers a unified workspace that grows with your operational complexity.
 
 Advanced usage patterns to explore next include building custom agent role libraries for your team, creating Floor templates for common scenarios (incident response, new project onboarding, cluster migration), and integrating Routines with external alerting systems. Consider combining Maestri with [[hammerspoon-deep-dive|Hammerspoon]] for keyboard-driven workflow automation and [[bunch-deep-dive|Bunch]] for launching your complete Maestri workspace with a single trigger.
+# Related Tutorials
+
+- [[herdr-beginner-guide|Herdr Beginner Guide]] — terminal-native agent multiplexer
+- [[herdr-deep-dive|Herdr Deep Dive]] — Herdr socket API for agent orchestration from terminal panes

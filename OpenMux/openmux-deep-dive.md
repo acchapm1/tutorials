@@ -584,3 +584,6 @@ If the file is corrupted, delete it and let OpenMux regenerate the defaults.
 
 - [[dtach-beginner-guide|Dtach Beginner Guide]] — lightweight detach/reattach for simple use cases
 - [[dtach-deep-dive|Dtach Deep Dive]] — dtach internals and composability with other tools
+
+- [[herdr-beginner-guide|Herdr Beginner Guide]] — agent-aware terminal multiplexer
+- [[herdr-deep-dive|Herdr Deep Dive]] — advanced Herdr configuration and socket API

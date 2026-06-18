@@ -307,6 +307,8 @@ HQ will only schedule a task on a worker that has 2 free cores, and it will not 
 - [[isaaclab-metagrasp-apptainer-hpc-deep-dive|IsaacLab MetaGrasp Deep Dive]] — advanced HPC container patterns
 - [[kubernetes-beginner-guide|Kubernetes Beginner Guide]] — container orchestration (different paradigm, useful comparison)
 - [[linux-permissions-beginner-guide|Linux Permissions Beginner Guide]] — foundational Linux knowledge for HPC work
+- [[autoresearch-beginner-guide|Autoresearch Beginner Guide]] — autonomous ML research loop on a single GPU; the deep dive discusses Slurm job arrays as a parallelization vector (comparable to HyperQueue task fans)
+- [[autoresearch-deep-dive|Autoresearch Deep Dive]] — Slurm job array sketch for parallel autoresearch variants; contrasts HPC-native job dispatch with the single-GPU autoresearch model
 
 ---
 
@@ -319,3 +321,8 @@ Head to [[hyperqueue-deep-dive|HyperQueue Deep Dive]] to set that up.
 - [[ssh-tutorial|SSH Tutorial]]
 - [[parsl-beginner-guide|Parsl Beginner Guide]] — Python-native parallel workflows on Slurm (alternative approach to HPC task parallelism)
 - [[parsl-deep-dive|Parsl Deep Dive]] — advanced Parsl patterns including MPI, monitoring, and production workflows
+# 8. Related Tutorials
+
+- [[flux-basics|Flux Basics]] — Flux Framework as an alternative HPC scheduler (also runs inside Slurm allocations)
+- [[flux-snakemake-workflows|Flux + Snakemake Workflows]] — running Snakemake on Flux (compare with HyperQueue's executor plugin approach)
+- [[flux-advanced-features|Advanced Flux Features]] — hierarchical scheduling and Python SDK for ensemble workflows

@@ -1026,3 +1026,6 @@ Worktrunk should preserve configuration across upgrades. If not, restore from ba
 
 - [[tmux-claude-code-beginner-guide|Tmux + Claude Code Beginner Guide]] — tmux + Claude Code fundamentals
 - [[tmux-claude-code-deep-dive|Tmux + Claude Code Deep Dive]] — Parallel Claude Code agents with git worktrees + tmux
+
+- [[herdr-beginner-guide|Herdr Beginner Guide]] — manages git worktrees as agent workspaces
+- [[herdr-deep-dive|Herdr Deep Dive]] — advanced worktree-to-workspace integration

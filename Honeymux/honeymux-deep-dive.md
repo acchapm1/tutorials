@@ -2328,3 +2328,6 @@ Honeymux is pre-1.0 software with active development. Stay updated on GitHub for
 
 - [[tmux-claude-code-beginner-guide|Tmux + Claude Code Beginner Guide]] — Using tmux with Claude Code for agentic coding
 - [[tmux-claude-code-deep-dive|Tmux + Claude Code Deep Dive]] — Advanced tmux + Claude Code automation
+
+- [[herdr-beginner-guide|Herdr Beginner Guide]] — agent-native terminal multiplexer
+- [[herdr-deep-dive|Herdr Deep Dive]] — advanced Herdr configuration and API

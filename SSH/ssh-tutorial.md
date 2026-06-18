@@ -995,6 +995,8 @@ Deepen your SSH knowledge and explore related tools:
 - [[kubernetes-beginner-guide|Kubernetes Beginner Guide]] — SSH into Kubernetes pods and nodes
 - [[honeymux-beginner-guide|Honeymux Beginner Guide]] — Multiplexing SSH sessions for team collaboration
 - [[sesh-beginner-guide|Sesh Beginner Guide]] — Terminal multiplexer integrating SSH session management
+- [[omp-beginner-guide|Oh My Pi (omp) Beginner Guide]] — terminal coding agent; the vLLM provider configuration requires an SSH tunnel from workstation to HPC compute node
+- [[omp-deep-dive|Oh My Pi (omp) Deep Dive]] — in-depth HPC chapter with concrete `ssh -L` tunnel commands for routing omp to a vLLM server on a Slurm compute node
 - [[openmux-beginner-guide|OpenMux Beginner Guide]] — SSH multiplexing tool for complex networks
 - [[hyperqueue-basics|HyperQueue Basics]] — Job submission on HPC clusters; uses SSH for login nodes
 - [[apache-nifi-hpc-sysadmin-beginner-guide|Apache NiFi HPC Sysadmin Guide]] — Data flow automation on clusters; often SSH-based
@@ -1009,6 +1011,10 @@ Deepen your SSH knowledge and explore related tools:
 
 - [[dtach-beginner-guide|Dtach Beginner Guide]] — keep programs alive across SSH disconnections with minimal overhead
 - [[dtach-deep-dive|Dtach Deep Dive]] — advanced dtach patterns for SSH workflows and jump hosts
+
+
+- [[headscale-beginner-guide|Headscale Beginner Guide]] — self-hosted WireGuard mesh networking; eliminates port forwarding and dynamic DNS for SSH access
+- [[headscale-deep-dive|Headscale Deep Dive]] — advanced Headscale configuration including SSH policy via ACLs
 
 ## Summary
 
