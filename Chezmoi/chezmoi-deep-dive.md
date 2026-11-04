@@ -1044,6 +1044,8 @@ Common warnings and fixes:
 - [[worktrunk-beginner-guide|Worktrunk Beginner Guide]] — Simplified git worktree management
 - [[worktrunk-deep-dive|Worktrunk Deep Dive]] — Advanced worktree patterns and automation
 - [[karabiner-elements-beginner-guide|Karabiner-Elements Beginner Guide]] and [[karabiner-elements-deep-dive|Karabiner-Elements Deep Dive]] — `~/.config/karabiner` benefits from chezmoi templates for per-device keyboard rules
+- [[rclone-beginner-guide|rclone Beginner's Guide]] — manage `rclone.conf` and obscured/encrypted credentials across machines
+- [[rclone-deep-dive|rclone Deep Dive]] — templating secrets for unattended rclone syncs
 
 ---
 

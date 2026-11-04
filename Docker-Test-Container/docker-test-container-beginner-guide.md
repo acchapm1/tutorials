@@ -529,6 +529,8 @@ Nix is a package manager and language for reproducible builds. You can declare y
 
 ## Related Tutorials
 
+- [[apple-container-beginner-guide|Apple container Beginner's Guide]] — running OCI containers natively on an Apple silicon Mac
+- [[apple-container-deep-dive|Apple container Deep Dive]] — per-container-VM architecture and container machine
 - [[dotfiles-beginner-guide|Dotfiles Beginner Guide]] — Learn how to organize your configurations
 - [[dotfiles-deep-dive|Dotfiles Deep Dive]] — Advanced dotfiles patterns
 - [[chezmoi-beginner-guide|Chezmoi Beginner Guide]] — Manage dotfiles across machines

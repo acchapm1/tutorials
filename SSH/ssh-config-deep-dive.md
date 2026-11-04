@@ -708,6 +708,7 @@ ssh -G github-personal | head -10
 ## Related Tutorials
 
 - [[ssh-tutorial|SSH Tutorial]] — companion beginner guide
+- [[restic-deep-dive|restic Deep Dive]] — SSH host aliases and jump hosts for restic's SFTP backend and for reaching a rest-server append-only host
 - [[linux-permissions-beginner-guide|Linux Permissions Beginner Guide]] — understanding 600, 700, etc.
 - [[linux-permissions-deep-dive|Linux Permissions Deep Dive]] — deep dive on permissions
 - [[mosh-beginner-guide|Mosh Beginner Guide]] — mobile shell; pairs well with SSH config for unstable connections
@@ -738,6 +739,10 @@ ssh -G github-personal | head -10
 
 - [[headscale-beginner-guide|Headscale Beginner Guide]] — self-hosted Tailscale control server; Headscale tunnels complement SSH for secure mesh networking
 - [[headscale-deep-dive|Headscale Deep Dive]] — advanced Headscale ACLs, OIDC, and production deployment; SSH over Headscale tailnets
+
+
+- [[rclone-deep-dive|rclone Deep Dive]] — SFTP-family remotes and `serve` endpoints reached via SSH host aliases
+- [[rclone-beginner-guide|rclone Beginner's Guide]] — move data across SMB/S3 storage backends
 
 ## Summary
 

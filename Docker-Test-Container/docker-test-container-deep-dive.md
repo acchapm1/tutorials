@@ -2028,6 +2028,9 @@ VMs are better for:
 
 For related learning and complementary workflows, see:
 
+- [[apple-container-beginner-guide|Apple container Beginner's Guide]] — the Apple silicon container engine, an alternative to Docker on macOS
+- [[apple-container-deep-dive|Apple container Deep Dive]] — per-container-VM internals, container machine, and HPC/Apptainer workflows
+
 - [[docker-test-container-beginner-guide|Docker Test Container Beginner Guide]] — Start here for basics
 - [[dotfiles-beginner-guide|Dotfiles Beginner Guide]] — Introduction to dotfiles management
 - [[dotfiles-deep-dive|Dotfiles Deep Dive]] — Advanced dotfiles techniques
@@ -2044,6 +2047,8 @@ For related learning and complementary workflows, see:
 - [[sesh-deep-dive|Sesh Deep Dive]] — Session management
 - [[mosh-deep-dive|Mosh Deep Dive]] — Mobile shell
 - [[git-worktrees-worktrunk-deep-dive|Git Worktrees Deep Dive]] — Advanced git workflows
+- [[rclone-beginner-guide|rclone Beginner's Guide]] — stand up MinIO in a container and drive it with a static rclone binary
+- [[rclone-deep-dive|rclone Deep Dive]] — disposable MinIO lab for crypt, bisync, and serve
 
 ---
 

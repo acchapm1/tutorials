@@ -877,3 +877,6 @@ kubectl get pods -w
 
 - [[headscale-beginner-guide|Headscale Beginner Guide]] — self-hosted mesh VPN; can provide overlay networking for Kubernetes
 - [[headscale-deep-dive|Headscale Deep Dive]] — advanced Headscale deployment including Kubernetes integration
+
+- [[flux-operator-beginner-guide|Flux Operator Beginner Guide]] — run HPC (Flux) MiniClusters on Kubernetes, a concrete operator + CRD example
+- [[flux-operator-deep-dive|Flux Operator Deep Dive]] — a real-world operator: Indexed Jobs, reconciliation, RBAC, and headless services in practice

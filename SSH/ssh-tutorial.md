@@ -1016,6 +1016,10 @@ Deepen your SSH knowledge and explore related tools:
 - [[headscale-beginner-guide|Headscale Beginner Guide]] — self-hosted WireGuard mesh networking; eliminates port forwarding and dynamic DNS for SSH access
 - [[headscale-deep-dive|Headscale Deep Dive]] — advanced Headscale configuration including SSH policy via ACLs
 
+
+- [[rclone-beginner-guide|rclone Beginner's Guide]] — move data across SMB/S3/WebDAV; rides SSH for SFTP-family backends
+- [[rclone-deep-dive|rclone Deep Dive]] — crypt, bisync, serve, and the rc API for storage automation
+
 ## Summary
 
 SSH is your gateway to remote systems. Master these essentials:

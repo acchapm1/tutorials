@@ -1252,3 +1252,10 @@ flux start --test-size=4 python3 my_monitor.py
 ```
 
 Once you are comfortable with programmatic job management, explore [[flux-system-setup|Flux System Setup]] to understand how Flux is deployed at the system level — broker configuration, resource graph setup, multi-user security, and integration with site authentication. That knowledge will help you work effectively with your site admins to get Flux deployed as a first-class scheduler on your cluster.
+
+---
+
+## Related Tutorials
+
+- [[flux-operator-beginner-guide|Flux Operator Beginner's Guide]] — running Flux instances as Kubernetes MiniClusters
+- [[flux-operator-deep-dive|Flux Operator Deep Dive]] — hierarchical scheduling and Fluxion under the Flux Operator, plus the CRD reference

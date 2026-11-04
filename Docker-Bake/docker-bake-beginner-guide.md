@@ -474,6 +474,8 @@ tag=1.0.0 docker bake --push    # won't work
 
 ## Related Tutorials
 
+- [[apple-container-beginner-guide|Apple container Beginner's Guide]] — Docker-style containers on Apple silicon using per-container VMs
+- [[apple-container-deep-dive|Apple container Deep Dive]] — multi-arch builds and the local→Apptainer→cluster pipeline
 - [[docker-test-container-beginner-guide|Docker Test Container Beginner Guide]] — core Docker skills needed before using Bake
 - [[docker-test-container-deep-dive|Docker Test Container Deep Dive]] — multi-stage builds and advanced Dockerfile patterns
 - [[docker-bake-deep-dive|Docker Bake Deep Dive]] — advanced bake.hcl patterns, matrix builds, CI/CD integration

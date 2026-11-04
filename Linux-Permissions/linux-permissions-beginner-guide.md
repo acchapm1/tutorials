@@ -390,6 +390,7 @@ chmod g+s /opt/shared-project
 - [[apache-nifi-hpc-sysadmin-beginner-guide|Apache NiFi HPC Sysadmin — Beginner Guide]] — file permissions matter for NiFi data flows
 - [[kubernetes-beginner-guide|Kubernetes — Beginner Guide]] — container security contexts build on Linux permissions
 - [[isaaclab-metagrasp-apptainer-hpc-beginner-guide|IsaacLab MetaGrasp on HPC — Beginner Guide]] — HPC cluster permissions
+- [[rclone-beginner-guide|rclone Beginner's Guide]] — `mount.cifs` uid/gid/file_mode mapping and why rclone preserves no ownership on most remotes
 # Related Tutorials
 
 - [[just-beginner-guide|Just Command Runner — Beginner Guide]] — Automate permission management tasks with just recipes

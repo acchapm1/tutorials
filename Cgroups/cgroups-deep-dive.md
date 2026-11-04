@@ -1277,6 +1277,8 @@ grep CgroupPlugin /etc/slurm/cgroup.conf
 
 ## Related Tutorials
 
+- [[apple-container-beginner-guide|Apple container Beginner's Guide]] — Mac containers with per-VM isolation and resource limits
+- [[apple-container-deep-dive|Apple container Deep Dive]] — capabilities, resource controls, and the per-container-VM model
 - [[cgroups-beginner-guide|Cgroups Beginner Guide]] — foundational cgroup concepts and basic inspection
 - [[docker-test-container-beginner-guide|Docker Test Container Beginner Guide]] — Docker uses cgroups for container resource limits
 - [[docker-test-container-deep-dive|Docker Test Container Deep Dive]] — advanced Docker resource management and cgroup interaction
