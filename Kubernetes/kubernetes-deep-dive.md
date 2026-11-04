@@ -1541,6 +1541,8 @@ See also: [[kubernetes-beginner-guide|Kubernetes Beginner's Guide]] for fundamen
 
 ## Related Tutorials
 
+- [[apple-container-beginner-guide|Apple container Beginner's Guide]] — build OCI images locally on Apple silicon before orchestrating them
+- [[apple-container-deep-dive|Apple container Deep Dive]] — how Apple container compares to other engines and where orchestration fits
 - [[linux-permissions-beginner-guide|Linux Permissions]]
 - [[apache-nifi-beginner-guide|Apache NiFi]]
 
@@ -1557,3 +1559,6 @@ See also: [[kubernetes-beginner-guide|Kubernetes Beginner's Guide]] for fundamen
 
 - [[headscale-beginner-guide|Headscale Beginner Guide]] — self-hosted WireGuard mesh VPN for connecting Kubernetes nodes across clouds
 - [[headscale-deep-dive|Headscale Deep Dive]] — overlay networking with Headscale for multi-cloud Kubernetes clusters
+
+- [[flux-operator-beginner-guide|Flux Operator Beginner Guide]] — HPC workloads on Kubernetes via the Flux Operator
+- [[flux-operator-deep-dive|Flux Operator Deep Dive]] — Indexed Jobs vs Deployments, controller reconciliation, and operator RBAC dissected

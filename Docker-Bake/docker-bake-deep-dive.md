@@ -735,6 +735,8 @@ cat /etc/os-release   # shows Rocky Linux 8.10
 
 ## Related Tutorials
 
+- [[apple-container-beginner-guide|Apple container Beginner's Guide]] — Apple silicon container engine with per-container VMs
+- [[apple-container-deep-dive|Apple container Deep Dive]] — `--arch` multi-arch builds, Rosetta amd64, and Apptainer cluster handoff
 - [[docker-bake-beginner-guide|Docker Bake Beginner Guide]] — start here if you are new to Bake
 - [[docker-test-container-beginner-guide|Docker Test Container Beginner Guide]] — Docker fundamentals
 - [[docker-test-container-deep-dive|Docker Test Container Deep Dive]] — multi-stage builds and advanced Dockerfile patterns

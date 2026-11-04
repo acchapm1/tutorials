@@ -619,6 +619,7 @@ journalctl | grep apparmor
 ## Related Tutorials
 
 - [[linux-permissions-beginner-guide|Linux Permissions: Beginner Guide]]
+- [[restic-deep-dive|restic Deep Dive]] — mode-0600 password files, ownership of the backup cache and restore targets, and why the repo carries no browsable source ownership
 - [[apache-nifi-hpc-sysadmin-deep-dive|Apache NiFi HPC Sysadmin — Deep Dive]] — file permissions for NiFi data flows and HPC storage
 - [[kubernetes-deep-dive|Kubernetes — Deep Dive]] — RBAC, security contexts, and Pod security standards
 - [[isaaclab-metagrasp-apptainer-hpc-deep-dive|IsaacLab MetaGrasp on HPC — Deep Dive]] — container permissions on HPC clusters

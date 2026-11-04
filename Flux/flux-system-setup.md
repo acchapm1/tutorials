@@ -1272,3 +1272,10 @@ done
 ```
 
 Once all 10 jobs show completed hostnames from different nodes, your system instance is production-ready for pilot workloads. The next tutorial, [[flux-snakemake-workflows|Flux Snakemake Workflows]], shows you how to run Snakemake pipelines on this system instance — or inside a Flux sub-instance within Slurm during Phase 1 of your migration.
+
+---
+
+## Related Tutorials
+
+- [[flux-operator-beginner-guide|Flux Operator Beginner's Guide]] — the Kubernetes-native path to standing up Flux, contrasted with bare-metal system setup
+- [[flux-operator-deep-dive|Flux Operator Deep Dive]] — Flux Operator vs. Slurm-on-bare-metal, and where converged computing fits an HPC site

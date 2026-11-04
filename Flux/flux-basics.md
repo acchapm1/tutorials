@@ -801,3 +801,10 @@ flux jobs -a --filter=failed --no-header | wc -l
 ```
 
 If all 50 tasks complete without failures, you're ready for the next tutorial: [[flux-system-setup|Flux System Setup]], which covers deploying Flux as a system-level scheduler alongside or replacing Slurm.
+
+---
+
+## Related Tutorials
+
+- [[flux-operator-beginner-guide|Flux Operator Beginner's Guide]] — run Flux as MiniClusters on Kubernetes (MiniKube on Apple Silicon)
+- [[flux-operator-deep-dive|Flux Operator Deep Dive]] — the MiniCluster CRD, flux-view sidecar, and how this compares to Slurm on bare metal

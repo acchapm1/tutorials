@@ -761,6 +761,8 @@ apptainer pull docker://nvcr.io/nvidia/isaac-sim:4.5.0
 
 ## 9. Related Tutorials
 
+- [[apple-container-deep-dive|Apple container Deep Dive]] — authoring OCI images on an Apple silicon Mac and converting them to Apptainer `.sif` for the cluster
+- [[apple-container-beginner-guide|Apple container Beginner's Guide]] — building the amd64 images that become cluster `.sif` files
 - [[linux-permissions-beginner-guide|Linux Permissions]] — User/group management on HPC clusters
 - [[kubernetes-beginner-guide|Kubernetes]] — Alternative orchestration for distributed containerized workloads
 
