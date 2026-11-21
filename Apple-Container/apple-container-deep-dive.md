@@ -360,6 +360,8 @@ Deep cluster patterns live in [[isaaclab-metagrasp-apptainer-hpc-deep-dive|the I
 
 ## Related Tutorials
 
+- [[skopeo-deep-dive|Skopeo Deep Dive]] — inspect the amd64 slice of a multi-arch image and transfer it to the cluster; the transport sibling to the container engines
+- [[skopeo-apptainer-hpc-workflow|Skopeo + Apptainer HPC Workflow]] — the end-to-end local-author → transfer → `.sif` → `sbatch` pipeline
 - [[apple-container-beginner-guide|Apple container Beginner's Guide]] — install, first run, build, mounts, ports
 - [[docker-bake-beginner-guide|Docker Bake Beginner Guide]] — declarative builds, a gentle on-ramp
 - [[docker-bake-deep-dive|Docker Bake Deep Dive]] — multi-platform build internals and CI matrices
