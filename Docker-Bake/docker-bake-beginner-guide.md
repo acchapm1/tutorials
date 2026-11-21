@@ -474,6 +474,8 @@ tag=1.0.0 docker bake --push    # won't work
 
 ## Related Tutorials
 
+- [[skopeo-beginner-guide|Skopeo Beginner's Guide]] — inspect and transfer the images Bake builds; copy them to `oci-archive:` for Apptainer on HPC
+- [[skopeo-apptainer-hpc-workflow|Skopeo + Apptainer HPC Workflow]] — take a built image all the way to a `.sif` running under `sbatch`
 - [[apple-container-beginner-guide|Apple container Beginner's Guide]] — Docker-style containers on Apple silicon using per-container VMs
 - [[apple-container-deep-dive|Apple container Deep Dive]] — multi-arch builds and the local→Apptainer→cluster pipeline
 - [[docker-test-container-beginner-guide|Docker Test Container Beginner Guide]] — core Docker skills needed before using Bake

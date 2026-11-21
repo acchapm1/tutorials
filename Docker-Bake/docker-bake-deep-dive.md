@@ -735,6 +735,8 @@ cat /etc/os-release   # shows Rocky Linux 8.10
 
 ## Related Tutorials
 
+- [[skopeo-deep-dive|Skopeo Deep Dive]] — the transfer-side counterpart to Bake's build-side multi-arch control: inspect, select, mirror, and pin by digest
+- [[skopeo-beginner-guide|Skopeo Beginner's Guide]] — daemonless, rootless image handling for the HPC login node
 - [[apple-container-beginner-guide|Apple container Beginner's Guide]] — Apple silicon container engine with per-container VMs
 - [[apple-container-deep-dive|Apple container Deep Dive]] — `--arch` multi-arch builds, Rosetta amd64, and Apptainer cluster handoff
 - [[docker-bake-beginner-guide|Docker Bake Beginner Guide]] — start here if you are new to Bake
